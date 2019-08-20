@@ -1,3 +1,4 @@
+# Maintainer: ckolos (ckolos@gmail.com)
 pkgname=glextrusion
 pkgver=fb75bf
 pkgrel=1
