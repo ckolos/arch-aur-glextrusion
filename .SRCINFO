@@ -1,0 +1,16 @@
+pkgbase = glextrusion
+	pkgdesc = GL Extrusion libraries and headers
+	pkgver = fb75bf
+	pkgrel = 1
+	url = https://github.com/linas/glextrusion
+	arch = x86_64
+	license = GPL2
+	makedepends = make
+	makedepends = autoconf
+	makedepends = gcc
+	provides = glexutrusion
+	source = glextrusion::git+https://github.com/linas/glextrusion
+	md5sums = SKIP
+
+pkgname = glextrusion
+
